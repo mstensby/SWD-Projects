@@ -1,0 +1,30 @@
+import java.util.HashMap;
+/**
+ * Hockey is a Game, and in the Hockey constructor, the number of options the user can select, the score values
+ * associated with the number of options, and the name of each of those scoring methods are initialized. The max amount
+ *  * of time incrementation is also set in the constructor.
+ */
+public class Hockey extends Game {
+    public Hockey(){
+        setNumOptions(3);
+        HashMap<String, Integer> scoreValues = new HashMap<>();
+        String[] options = new String[1];
+        scoreValues.put("1", 1);
+        scoreValues.put("2", 1);
+        scoreValues.put("3", 1);
+        setScoreValues(scoreValues);
+        options[0] = "goal";
+        setOptions(options);
+        setMaxPeriod(3);
+    }
+
+    /**
+     * Sets the timeFormat to periods since it is a hockey game
+     * @return the name of the time format
+     */
+    @Override
+    public String timeFormat() {
+        return "Period";
+    }
+
+}
