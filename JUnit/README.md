@@ -35,7 +35,8 @@ For the third program, there are 3 methods. The most important method is the met
 
 [JUnit JavaDocs](http://localhost:8400/mstensby/oral_exam1/JUnit/docJUnitTesting/EncodeUPCJUnitTest.html)
 
-![UML Diagram](https://class-git.engineering.uiowa.edu/swd2023fall/mstensby/-/raw/main/oral_exam1/JUnit/UMLJUnitDiagram.png)
+![image](https://github.com/mstensby/SWD-Projects/assets/156954799/748bfdcc-c557-4cbf-bfc3-97903adbbcd6)
+
 
 ### Source Code
 [resources](https://class-git.engineering.uiowa.edu/swd2023fall/mstensby/-/tree/main/oral_exam1/JUnit/resources)
