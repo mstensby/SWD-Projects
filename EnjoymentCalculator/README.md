@@ -11,7 +11,8 @@ There are two classes that will be used: a driver program that asks the user for
 
 [Thanksgiving JavaDocs](http://localhost:8000/mstensby/oral_exam2/AdvancedTopics2/doc/package-summary.html)
 
-![UMLDiagram](https://class-git.engineering.uiowa.edu/swd2023fall/mstensby/-/raw/main/oral_exam2/AdvancedTopics2/src/ThanksgivingUMLDiagram.png)
+![image](https://github.com/mstensby/SWD-Projects/assets/156954799/48d814ea-df16-4f56-b04c-b81d58e39620)
+
 
 ### Source Code
 
