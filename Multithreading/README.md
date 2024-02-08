@@ -17,7 +17,8 @@ Finally, an interface and circular buffer class are created in order for the coe
 
 [Multithreading JavaDocs](http://localhost:8000/mstensby/oral_exam2/Multithreading/doc/package-summary.html)
 
-![UMLDiagram](https://class-git.engineering.uiowa.edu/swd2023fall/mstensby/-/raw/main/oral_exam2/Multithreading/MultithreadingUMLDiagram.png)
+![image](https://github.com/mstensby/SWD-Projects/assets/156954799/f01425d9-13ca-4bae-af45-3f1ce496117b)
+
 ### Source Code
 
 [Boss](https://class-git.engineering.uiowa.edu/swd2023fall/mstensby/-/blob/main/oral_exam2/Multithreading/src/Boss.java)
