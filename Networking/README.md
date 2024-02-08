@@ -15,7 +15,8 @@ The purpose of the client is to connect to the server-created socket and then di
 
 [Networking JavaDocs](http://localhost:8000/mstensby/oral_exam2/Networking/doc/package-summary.html)
 
-![UML_Diagram](https://class-git.engineering.uiowa.edu/swd2023fall/mstensby/-/raw/main/oral_exam2/Networking/NetworkingUMLDiagram.png)
+![image](https://github.com/mstensby/SWD-Projects/assets/156954799/88ad0730-5810-43f9-b1f2-99d0d3e4587e)
+
 ### Source Code
 [Client](https://class-git.engineering.uiowa.edu/swd2023fall/mstensby/-/blob/main/oral_exam2/Networking/src/Client.java)
 
