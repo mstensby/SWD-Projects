@@ -21,7 +21,7 @@ The private variables that can be used for all sports should be: the current tim
 The two public variables that were used is a Hashmap and an array of Strings. The hashmaps purpose is to associate each number that the user could enter with a # of points that can be scored after choosing that method of scoring. The array of Strings purpose is to have each distinct possibility for how the user may be able to score(e.g. touchdown for either team). These two public variables are changed depending on the sport that is being played, which means that they must be public so that the user may be able to access them and change the ways that can be scored if needed.
 
 [Game JavaDocs](http://localhost:8000/mstensby/oral_exam2/Polymorphism/doc/package-summary.html)
-![UML_Diagram](https://class-git.engineering.uiowa.edu/swd2023fall/mstensby/-/raw/main/oral_exam2/Polymorphism/PolymorphismUMLDiagram.png)
+![image](https://github.com/mstensby/SWD-Projects/assets/156954799/481b32e4-85f4-4496-b476-4a3683c3de80)
 
 ### Source Code
 [Game](https://class-git.engineering.uiowa.edu/swd2023fall/mstensby/-/blob/main/oral_exam2/Polymorphism/src/Game.java)
