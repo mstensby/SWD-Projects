@@ -19,6 +19,8 @@ The next classes should have an "is-a" relationship. This means that all sports 
 The private variables that can be used for all sports should be: the current time increment, the max time increment (e.g. 4 for quarters), the team names, the number of options, and the number of scoring methods(although they change depending on the sport, setters and getters allow them to be used for all programs). 
 
 The two public variables that were used is a Hashmap and an array of Strings. The hashmaps purpose is to associate each number that the user could enter with a # of points that can be scored after choosing that method of scoring. The array of Strings purpose is to have each distinct possibility for how the user may be able to score(e.g. touchdown for either team). These two public variables are changed depending on the sport that is being played, which means that they must be public so that the user may be able to access them and change the ways that can be scored if needed.
+
 [Game JavaDocs](http://localhost:8000/mstensby/oral_exam2/Polymorphism/doc/package-summary.html)
+
 ![image](https://github.com/mstensby/SWD-Projects/assets/156954799/481b32e4-85f4-4496-b476-4a3683c3de80)
 
